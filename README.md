@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/7b3f830d-3461-49be-86d7-fa7e41cd46e0)
 ![image](https://github.com/user-attachments/assets/e8deab62-a329-4fbd-880a-eac3d81f73de)
 ![image](https://github.com/user-attachments/assets/d3130cb6-51f7-49a4-a23c-13b7c38a8d0c)
-Pollutant  Your RMSE  Threshold Pass/Fail
+              Pollutant  Your RMSE  Threshold Pass/Fail
 0              CO(GT)        8.2    10.0000      Pass
 1         PT08.S1(CO)      190.0   210.0000      Pass
 2            NMHC(GT)       12.0    14.0000      Pass
